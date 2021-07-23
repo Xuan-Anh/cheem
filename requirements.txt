@@ -1,0 +1,4 @@
+requests>=2.21.0
+pandas
+flask
+flask_restful
