@@ -55,6 +55,12 @@ def show_days():
     return jsonify(dict_df)
 
 
+@app.route('/', methods=['GET'])
+def hello():
+
+    return "<h1>Hello</h1>"
+
+
 @app.route('/showdetails', methods=['POST'])
 def show_details():
     input = request.args.to_dict()
