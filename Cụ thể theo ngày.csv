@@ -1,9 +1,17 @@
 Day or Night,Ngày cụ thể,Độ che phủ theo ngày,Cụ thể,Khả năng có mưa,Lượng mưa,Cảnh báo thời tiết,Phần trăm độ ẩm,Nhiệt độ,Cảm thấy như,Mức độ giông bão,Chỉ số UV,Hướng gió,Mô tả
 ,,,,,,,,,,,,,
-N,Tonight,97.0,Showers and thunderstorms likely. Heavy and torrential downpours at times. Low around 25C. Winds W at 10 to 15 km/h. Chance of rain 100%. 25 to 50mm of rain expected.,96.0,32.76,Heavy and torrential downpours at times.,92.0,26.0,31.0,2.0,Low,Winds W at 10 to 15 km/h.,Thunderstorms
-D,Tomorrow,94.0,Thunderstorms likely. Heavy and torrential downpours at times. High 28C. Winds W at 15 to 25 km/h. Chance of rain 100%. Rainfall may reach 25mm.,96.0,27.54,Heavy and torrential downpours at times.,88.0,28.0,34.0,2.0,High,Winds W at 15 to 25 km/h.,Thunderstorms
-N,Tomorrow night,82.0,"Thunderstorms likely, especially in the evening. Low 26C. Winds WNW at 15 to 25 km/h. Chance of rain 70%.",70.0,5.65,,88.0,26.0,32.0,2.0,Low,Winds WNW at 15 to 25 km/h.,Scattered Thunderstorms
-D,Sunday,70.0,Scattered thunderstorms in the morning becoming more widespread in the afternoon. High 31C. Winds WNW at 10 to 15 km/h. Chance of rain 70%.,65.0,6.89,,79.0,31.0,38.0,2.0,Extreme,Winds WNW at 10 to 15 km/h.,Thunderstorms
-N,Sunday night,73.0,Mainly cloudy. Low 27C. Winds WSW at 10 to 15 km/h.,24.0,0.0,,83.0,27.0,35.0,0.0,Low,Winds WSW at 10 to 15 km/h.,Mostly Cloudy
-D,Monday,51.0,Mostly cloudy skies early will become partly cloudy later in the day. High 33C. Winds WSW at 10 to 15 km/h.,24.0,0.0,,70.0,33.0,41.0,0.0,Extreme,Winds WSW at 10 to 15 km/h.,Partly Cloudy
-N,Monday night,56.0,Partly cloudy skies. Low 28C. Winds WSW at 10 to 15 km/h.,16.0,0.0,,76.0,28.0,37.0,0.0,Low,Winds WSW at 10 to 15 km/h.,Partly Cloudy
+N,Tối nay,55.0,Phần nào có mây. Thấp 26độ C. Gió TB và có thể thay đổi.,18.0,0.0,,91.0,26.0,35.0,0.0,Thấp,Gió TB và có thể thay đổi.,Nhiều Mây
+D,Ngày mai,62.0,Giông bão rải rác. Cao 34độ C. Gió B ở tốc độ 10 đến 15 km/giờ. Khả năng có mưa 50%.,47.0,3.08,,69.0,34.0,41.0,2.0,Rất nghiêm trọng,Gió B ở tốc độ 10 đến 15 km/giờ.,Giông Bão Rải Rác
+N,Tối mai,56.0,Giông bão từ sáng sớm. Thấp 26độ C. Gió TB và có thể thay đổi. Khả năng có mưa 40%.,36.0,0.69,,89.0,26.0,37.0,2.0,Thấp,Gió TB và có thể thay đổi.,Giông Bão Sáng Sớm
+D,Thứ Hai,42.0,Giông bão phát triển vào buổi chiều. Cao 34độ C. Gió TTB và có thể thay đổi. Khả năng có mưa 40%.,35.0,0.81,,67.0,34.0,41.0,2.0,Rất nghiêm trọng,Gió TTB và có thể thay đổi.,Giông Bão Vào Buổi Chiều
+N,Tối Thứ Hai,42.0,Phần nào có mây. Thấp 27độ C. Gió ĐĐN và có thể thay đổi.,21.0,0.0,,84.0,27.0,38.0,0.0,Thấp,Gió ĐĐN và có thể thay đổi.,Nhiều Mây
+D,Thứ Ba,46.0,Giông bão vào buổi sáng. Cao 35độ C. Gió TB ở tốc độ 10 đến 15 km/giờ. Khả năng có mưa 40%.,35.0,0.76,,66.0,35.0,42.0,2.0,Rất nghiêm trọng,Gió TB ở tốc độ 10 đến 15 km/giờ.,Giông Bão Vào Buổi Sáng
+N,Tối Thứ Ba,67.0,Chủ yếu có mây. Thấp 27độ C. Gió Đ và có thể thay đổi.,24.0,0.0,,84.0,27.0,39.0,0.0,Thấp,Gió Đ và có thể thay đổi.,Nhiều mây
+D,Thứ Tư,78.0,Giông bão rải rác. Cao 35độ C. Gió BTB ở tốc độ 10 đến 15 km/giờ. Khả năng có mưa 40%.,44.0,1.76,,68.0,35.0,42.0,2.0,Rất Cao,Gió BTB ở tốc độ 10 đến 15 km/giờ.,Giông Bão Rải Rác
+N,Tối Thứ Tư,75.0,Giông bão rải rác. Thấp 27độ C. Gió Đ và có thể thay đổi. Khả năng có mưa 40%.,40.0,1.56,,87.0,27.0,38.0,2.0,Thấp,Gió Đ và có thể thay đổi.,Giông Bão Rải Rác
+D,Thứ Năm,79.0,Giông bão rải rác. Cao 35độ C. Gió BTB ở tốc độ 10 đến 15 km/giờ. Khả năng có mưa 40%.,42.0,2.06,,70.0,35.0,43.0,2.0,Rất Cao,Gió BTB ở tốc độ 10 đến 15 km/giờ.,Giông Bão Rải Rác
+N,Tối Thứ Năm,79.0,Giông bão rải rác. Thấp 27độ C. Gió Đ và có thể thay đổi. Khả năng có mưa 40%.,44.0,3.43,,85.0,27.0,39.0,2.0,Thấp,Gió Đ và có thể thay đổi.,Giông Bão Rải Rác
+D,Thứ Sáu,80.0,Nhiều mây. Cao 35độ C. Gió T ở tốc độ 10 đến 15 km/giờ.,16.0,0.0,,67.0,35.0,43.0,0.0,Rất Cao,Gió T ở tốc độ 10 đến 15 km/giờ.,Rất nhiều mây
+N,Tối Thứ Sáu,80.0,Giông bão rải rác. Thấp 28độ C. Gió TN ở tốc độ 10 đến 15 km/giờ. Khả năng có mưa 50%.,45.0,2.48,,83.0,28.0,40.0,2.0,Thấp,Gió TN ở tốc độ 10 đến 15 km/giờ.,Giông Bão Rải Rác
+D,Thứ Bảy,85.0,Nhiều mây. Cao 35độ C. Gió T ở tốc độ 10 đến 15 km/giờ.,24.0,0.0,,66.0,35.0,42.0,0.0,Rất Cao,Gió T ở tốc độ 10 đến 15 km/giờ.,Rất nhiều mây
+N,Tối Thứ Bảy,76.0,Giông bão rải rác. Thấp 28độ C. Gió TTN và có thể thay đổi. Khả năng có mưa 40%.,43.0,2.74,,84.0,28.0,38.0,2.0,Thấp,Gió TTN và có thể thay đổi.,Giông Bão Rải Rác
